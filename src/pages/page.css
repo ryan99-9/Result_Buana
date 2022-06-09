@@ -1,0 +1,36 @@
+.code{
+    display: flex;
+}
+.btn{
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+.accor{
+    width: 45vw;
+    margin: 0.2rem;
+ 
+}
+.back{
+    background-image: url(https://images.unsplash.com/photo-1615789591457-74a63395c990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwY2F0fGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+    background-size: cover;
+    height: 150vh;
+}
+.head{
+    display: flex;
+    margin-bottom: 1rem;
+}
+.btn1{
+    padding: 0.5rem;
+    margin:0.5rem;
+    margin-left: -0.5rem;
+}
+.form{
+    width: 20vw;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    margin-left: 1rem;
+}
+h1 {
+    color: white;
+    margin-left: 0.6rem;
+}
